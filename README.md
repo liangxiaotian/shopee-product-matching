@@ -7,5 +7,7 @@
 # Train and test the model
 
    Step1: download the datasets of shopee-product-matching, you can run the file: kaggledata_download.ipynb  
+
    Step2: Train the model: shopee_train.ipynb  
+   
    Step3: Test the model: shopee_test.ipynb  
