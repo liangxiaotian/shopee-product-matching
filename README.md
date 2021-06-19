@@ -3,6 +3,6 @@
 
  Train the model on google colab for the Beginner of multimodal retrieval
 
- # Train:
+ # Train the model:
     Step1: download the datasets of shopee-product-matching, you can run the file: kaggledata_download.ipynb  
     Step2: Train the model: shopee_train.ipynb  
