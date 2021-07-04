@@ -11,3 +11,8 @@
    Step2: Train the model: shopee_train.ipynb  
 
    Step3: Test the model: shopee_test.ipynb  
+
+# Val result: The result only in val dataset epoch=10
+   text: 0.9624
+   text+image: 0.6817
+   image: 0.7310
