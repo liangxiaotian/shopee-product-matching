@@ -12,7 +12,9 @@
 
    Step3: Test the model: shopee_test.ipynb  
 
-# Val result: The result only in val dataset epoch=10
-   text: 0.9624
-   text+image: 0.6817
-   image: 0.7310
+# Test result: The result of kaggle test
+
+|      |Private Score|Public Score|
+|Text  |0.602|0.614|
+|Image |0.577|0.588|
+|Image+Text|0.673|0.686|
