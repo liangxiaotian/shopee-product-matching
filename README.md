@@ -14,7 +14,8 @@
 
 # Test result: The result of kaggle test
 
-|      |Private Score|Public Score|
-|Text  |0.602|0.614|
-|Image |0.577|0.588|
-|Image+Text|0.673|0.686|
+|   Time  |  Private Score | Public Score |
+|:-------:|:-----:|:-------:|
+| Text | 0.602 |   0.614  |
+| Image  | 0.577 |  0.588  |
+| Image+Text  | 0.673   |  0.686  |
